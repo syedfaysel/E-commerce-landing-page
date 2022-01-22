@@ -1,0 +1,15 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+
+#categories img{
+    width: 100px;
+}
+.panda-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+
+.hero-section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
